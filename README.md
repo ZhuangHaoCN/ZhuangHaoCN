@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there 👋# ZhuangHaoCN
+小米手环Vela快应用独立开发者
+作品：小米手环10 Pro 跳一跳 RPK 小游戏
+
+💛 欢迎来爱发电支持我的开发：
+https://afdian.net/a/Zay0421
+
+项目后续会在 AstroBox 社区发布
+
 
 <!--
 **ZhuangHaoCN/ZhuangHaoCN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
